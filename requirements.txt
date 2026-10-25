@@ -1,0 +1,12 @@
+# Versões instaladas com sucesso no Python 3.14 em 2026-10-25
+chromadb==1.5.9
+sentence-transformers==6.2.0
+gradio==6.30.0
+langchain==1.4.7
+langchain-openai==1.7.2
+langchain-chroma==1.1.0
+langchain-huggingface==1.2.3
+langgraph==1.2.17
+pandas==3.1.0
+pydantic==2.14.1
+python-dotenv==1.2.4

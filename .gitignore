@@ -1,0 +1,14 @@
+# Segredos
+.env
+
+# Ambiente virtual e cache do Python
+.venv/
+__pycache__/
+*.pyc
+
+# Banco vetorial persistido (é recriado a partir de dados/)
+chroma_db/
+
+# Material de estudo pessoal e pacotes de entrega
+estudos/
+*.zip
